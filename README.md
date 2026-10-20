@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Baryon** · Team ID `VTU-QFF-HC-0074` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Baryon)
+[⬆ Back to Top](#baryon)
 
 </div>
